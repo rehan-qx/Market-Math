@@ -1,4 +1,4 @@
-# ◈ Profit Calculator Pro — v1.0
+# ◈ Profit Calculator Pro — v3.0
 
 > **Forex · Indices · Metals · Crypto** — Advanced pip & profit calculator with live crypto prices, multi-currency support, and a dark terminal-style UI.
 
