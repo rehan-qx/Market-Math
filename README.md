@@ -192,3 +192,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 - UI framework: [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) by Tom Schimansky
 - Live price data: [Binance Public API](https://api.binance.com)
+
+---
+
+### 📢 Stay Updated
+Join our WhatsApp channel for daily cyber & Crypto updates, vulnerability write-ups, and security news!
+
+👉 **[Join Our WhatsApp Channel](https://whatsapp.com/channel/0029Vb5n1UC7oQhYnrlUBD26)**
+
+---
+*Maintained by **Muhammad Rehan Afzal** | Founder, TeamCyberOps*
