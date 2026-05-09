@@ -14,7 +14,7 @@
                              ░                                
 </pre>
 
-<h3>📈 Forex • Crypto • Trading Risk Analysis Tool</h3>
+<h3>📈 Forex • Crypto • Trading Risk Analysis </h3>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.x-BC8CFF?style=flat-square)
