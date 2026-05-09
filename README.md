@@ -1,11 +1,20 @@
 <div align="center">
 
-```
- ╔═══════════════════════════════════════════════════════════════╗
- ║          ◈  P R O F I T  C A L C U L A T O R  P R O          ║
- ║          Forex · Indices · Metals · Crypto  |  v5.0           ║
- ╚═══════════════════════════════════════════════════════════════╝
-```
+<pre>
+ 
+▄▄▄█████▓ ██▀███   ▄▄▄      ▓█████▄  ██▓ ███▄    █   ▄████    
+▓  ██▒ ▓▒▓██ ▒ ██▒▒████▄    ▒██▀ ██▌▓██▒ ██ ▀█   █  ██▒ ▀█▒   
+▒ ▓██░ ▒░▓██ ░▄█ ▒▒██  ▀█▄  ░██   █▌▒██▒▓██  ▀█ ██▒▒██░▄▄▄░   
+░ ▓██▓ ░ ▒██▀▀█▄  ░██▄▄▄▄██ ░▓█▄   ▌░██░▓██▒  ▐▌██▒░▓█  ██▓   
+  ▒██▒ ░ ░██▓ ▒██▒ ▓█   ▓██▒░▒████▓ ░██░▒██░   ▓██░░▒▓███▀▒   
+  ▒ ░░   ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒▒▓  ▒ ░▓  ░ ▒░   ▒ ▒  ░▒   ▒    
+    ░      ░▒ ░ ▒░  ▒   ▒▒ ░ ░ ▒  ▒  ▒ ░░ ░░   ░ ▒░  ░   ░    
+  ░        ░░   ░   ░   ▒    ░ ░  ░  ▒ ░   ░   ░ ░ ░ ░   ░    
+            ░           ░  ░   ░     ░           ░       ░    
+                             ░                                
+</pre>
+
+<h3>📈 Forex • Crypto • Trading Risk Analysis Tool</h3>
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.x-BC8CFF?style=flat-square)
@@ -13,7 +22,7 @@
 ![License](https://img.shields.io/badge/License-MIT-3FB950?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-5.0-F0883E?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-3FB950?style=flat-square)
-
+</div>
 <br/>
 
 **A professional desktop trading calculator for Forex, Indices, Metals & Crypto.**
